@@ -1,24 +1,54 @@
-front	back	source	source_url
-Capsicum annuum	Pepper		
-Capsicum annuum	capsicum_annuum_1.jpg	H. Zell	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_003.JPG
-Capsicum annuum	capsicum_annuum_2.jpg	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg
-Capsicum annuum	capsicum_annuum_3.jpg	Prenn	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(2).JPG
-Capsicum annuum	capsicum_annuum_4.jpg	Ton Rulkens	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(8307305118).jpg
-Capsicum annuum	Native to Central America		
-Capsicum annuum	The source of cayenne, chili powder, and paprika		
-Malus pumila	Apple		
-Malus pumila	Also called Malus domestica		
-Malus pumila	malus_pumila_1.jpg	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Malus_domestica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-108.jpg
-Malus pumila	malus_pumila_2.jpg	Wikipedia user: Abhijit Tembhekar	https://commons.wikimedia.org/wiki/File:Red_Apple.jpg
-Malus pumila	malus_pumila_3.jpg	Opioła Jerzy	https://commons.wikimedia.org/wiki/File:Malus_domestica_a1.jpg
-Malus pumila	malus_pumila_4.jpg	Wikipedia user: Maseltov	https://commons.wikimedia.org/wiki/File:Apfelbaum_Winterrambour_Hochstamm.jpg
-Pyrus communis	European pear		
-Pyrus communis	common pear		
-Pyrus communis	pyrus_communis_1.jpg	Keith Weller	https://commons.wikimedia.org/wiki/File:Pears.jpg
-Pyrus communis	pyrus_communis_2.jpg	wikipedia user: Jacek Halicki	https://commons.wikimedia.org/wiki/File:2015_Kwiatostan_gruszy_pospolitej.jpg
-Pyrus communis	pyrus_communis_3.jpg		https://commons.wikimedia.org/wiki/File:Pyrus_communis_orchard,_perenboomgaard.jpg
-Ocimum basilicum	Basil		
-Ocimum basilicum	ocimum_basilicum_1.jpg	Wikipedia user: Castielli	https://commons.wikimedia.org/wiki/File:Basil-Basilico-Ocimum_basilicum-albahaca.jpg
-Ocimum basilicum	ocimum_basilicum_2.jpg		
-Ocimum basilicum	ocimum_basilicum_3.jpg	Wikipedia user: Risacher	https://commons.wikimedia.org/wiki/File:Thai_basil_with_flowers.jpg
-Ocimum basilicum	ocimum_basilicum_4.jpg	Wikipedia user: Mokkie	https://commons.wikimedia.org/wiki/File:Sweet_Basil_(Ocimum_basilicum)_3.jpg
+front	back	difficulty	source	source_url
+Capsicum annuum	Pepper	1		
+Capsicum annuum	capsicum_annuum_1.jpg	2	H. Zell	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_003.JPG
+Capsicum annuum	capsicum_annuum_2.jpg	2	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg
+Capsicum annuum	capsicum_annuum_3.jpg	2	Prenn	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(2).JPG
+Capsicum annuum	capsicum_annuum_4.jpg	2	Ton Rulkens	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(8307305118).jpg
+Capsicum annuum	Native to Central America	5		
+Capsicum annuum	The source of cayenne, chili powder, and paprika	2		
+Capsicum annuum	Family: Solanaceae	5		
+Capsicum annuum	Fruit type: berry	6		
+Malus pumila	Apple	1		
+Malus pumila	Also called Malus domestica	2		
+Malus pumila	Native to Central Asia	5		
+Malus pumila	malus_pumila_1.jpg	2	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Malus_domestica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-108.jpg
+Malus pumila	malus_pumila_2.jpg	2	Wikipedia user: Abhijit Tembhekar	https://commons.wikimedia.org/wiki/File:Red_Apple.jpg
+Malus pumila	malus_pumila_3.jpg	2	Opioła Jerzy	https://commons.wikimedia.org/wiki/File:Malus_domestica_a1.jpg
+Malus pumila	malus_pumila_4.jpg	2	Wikipedia user: Maseltov	https://commons.wikimedia.org/wiki/File:Apfelbaum_Winterrambour_Hochstamm.jpg
+Malus pumila	Family: Rosaceae	5		
+Malus pumila	Fruit type: pome	6		
+Pyrus communis	European pear	1		
+Pyrus communis	common pear	1		
+Pyrus communis	pyrus_communis_1.jpg	2	Keith Weller	https://commons.wikimedia.org/wiki/File:Pears.jpg
+Pyrus communis	pyrus_communis_2.jpg	2	wikipedia user: Jacek Halicki	https://commons.wikimedia.org/wiki/File:2015_Kwiatostan_gruszy_pospolitej.jpg
+Pyrus communis	pyrus_communis_3.jpg	2		https://commons.wikimedia.org/wiki/File:Pyrus_communis_orchard,_perenboomgaard.jpg
+Pyrus communis	Family: Rosaceae	5		
+Pyrus communis	Fruit type: pome	6		
+Ocimum basilicum	Basil	1		
+Ocimum basilicum	ocimum_basilicum_1.jpg	2	Wikipedia user: Castielli	https://commons.wikimedia.org/wiki/File:Basil-Basilico-Ocimum_basilicum-albahaca.jpg
+Ocimum basilicum	ocimum_basilicum_2.jpg	2		
+Ocimum basilicum	ocimum_basilicum_3.jpg	2	Wikipedia user: Risacher	https://commons.wikimedia.org/wiki/File:Thai_basil_with_flowers.jpg
+Ocimum basilicum	ocimum_basilicum_4.jpg	2	Wikipedia user: Mokkie	https://commons.wikimedia.org/wiki/File:Sweet_Basil_(Ocimum_basilicum)_3.jpg
+Ocimum basilicum	Family: Lamiaceae	5		
+Cucurbita pepo	Varieties of winter squash and pumpkin	1		
+Cucurbita pepo	Acorn squash	2		
+Cucurbita pepo	Pumpkin	2		
+Cucurbita pepo	Zucchini	2		
+Cucurbita pepo	Pattypan squash	3		
+Cucurbita pepo	cucurbita_pepo_1.jpg	3	Wikipedia user: Forest & Kim Starr	https://commons.wikimedia.org/wiki/File:Starr_070730-7820_Cucurbita_pepo.jpg
+Cucurbita pepo	cucurbita_pepo_2.jpg	3	Petr Kratochvil	http://www.publicdomainpictures.net/view-image.php?image=195241&picture=pumpkin-patch
+Cucurbita pepo	cucurbita_pepo_3.jpg	4	Wikipedia user: Jake7401	https://commons.wikimedia.org/wiki/File:Zucchiniflower.jpg
+Cucurbita pepo	cucurbita_pepo_4.jpg	3	Wikipedia user: Jamain	https://commons.wikimedia.org/wiki/File:Courgette_J1.JPG
+Cucurbita pepo	cucurbita_pepo_5.jpg	3	Wikipedia user: Rameshng	https://commons.wikimedia.org/wiki/File:Pattypan_squash_at_lalbagh7446.JPG
+Cucurbita pepo	cucurbita_pepo_6.jpg	3	Wikipedia user: Green Mountain Girls Farm	https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Delicata_squash_Green_Mountain_Girls_Farm.jpg
+Cucurbita pepo	cucurbita_pepo_7.jpg	4	Wikipedia user: AngledLuffa	https://en.wikipedia.org/wiki/File:Male_spaghetti_squash_flower.jpg
+Cucurbita pepo	cucurbita_pepo_8.jpg	3	Wikipedia user: Rik Schuiling / TropCrop-TCS	https://commons.wikimedia.org/wiki/File:Golden_zucchinis_produced_in_the_Netherlands_for_sale_in_a_supermarket_in_Montpellier,_France,_April_2013.jpg
+Cucurbita pepo	Native to Mexico	5		
+Acorn squash	cucurbita_pepo_1.jpg	1	Wikipedia user: Forest & Kim Starr	https://commons.wikimedia.org/wiki/File:Starr_070730-7820_Cucurbita_pepo.jpg
+Pumpkin	cucurbita_pepo_2.jpg	1	Petr Kratochvil	http://www.publicdomainpictures.net/view-image.php?image=195241&picture=pumpkin-patch
+Zucchini	cucurbita_pepo_4.jpg	1	Wikipedia user: Jamain	https://commons.wikimedia.org/wiki/File:Courgette_J1.JPG
+Pattypan squash	cucurbita_pepo_5.jpg	1	Wikipedia user: Rameshng	https://commons.wikimedia.org/wiki/File:Pattypan_squash_at_lalbagh7446.JPG
+Delicata squash	cucurbita_pepo_6.jpg	1	Wikipedia user: Green Mountain Girls Farm	https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Delicata_squash_Green_Mountain_Girls_Farm.jpg
+Yellow summer squash	cucurbita_pepo_8.jpg	1	Wikipedia user: Rik Schuiling / TropCrop-TCS	https://commons.wikimedia.org/wiki/File:Golden_zucchinis_produced_in_the_Netherlands_for_sale_in_a_supermarket_in_Montpellier,_France,_April_2013.jpg
+Cucurbita pepo	Family: Cucurbitaceae	5		
+Cucurbita pepo	Fruit type: pepo	6		
