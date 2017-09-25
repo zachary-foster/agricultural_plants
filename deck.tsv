@@ -1,5 +1,5 @@
 front	back	difficulty	source	source_url
-Capsicum annuum	Pepper	1		
+Capsicum annuum	Chile peppers	1		
 Capsicum annuum	capsicum_annuum_1.jpg	2	H. Zell	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_003.JPG
 Capsicum annuum	capsicum_annuum_2.jpg	2	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Illustration_Capsicum_annuum0.jpg
 Capsicum annuum	capsicum_annuum_3.jpg	2	Prenn	https://commons.wikimedia.org/wiki/File:Capsicum_annuum_(2).JPG
@@ -7,10 +7,10 @@ Capsicum annuum	capsicum_annuum_4.jpg	2	Ton Rulkens	https://commons.wikimedia.or
 Capsicum annuum	Native to Central America	5		
 Capsicum annuum	The source of cayenne, chili powder, and paprika	2		
 Capsicum annuum	Family: Solanaceae	5		
-Capsicum annuum	Fruit type: berry	6		
+Capsicum annuum	Fruit type: berry	5		
 Malus pumila	Apple	1		
 Malus pumila	Also called Malus domestica	2		
-Malus pumila	Native to Central Asia	5		
+Malus pumila	Native to Asia	5		
 Malus pumila	malus_pumila_1.jpg	2	Franz Eugen Köhler	https://commons.wikimedia.org/wiki/File:Malus_domestica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-108.jpg
 Malus pumila	malus_pumila_2.jpg	2	Wikipedia user: Abhijit Tembhekar	https://commons.wikimedia.org/wiki/File:Red_Apple.jpg
 Malus pumila	malus_pumila_3.jpg	2	Opioła Jerzy	https://commons.wikimedia.org/wiki/File:Malus_domestica_a1.jpg
@@ -44,11 +44,179 @@ Cucurbita pepo	cucurbita_pepo_6.jpg	3	Wikipedia user: Green Mountain Girls Farm	
 Cucurbita pepo	cucurbita_pepo_7.jpg	4	Wikipedia user: AngledLuffa	https://en.wikipedia.org/wiki/File:Male_spaghetti_squash_flower.jpg
 Cucurbita pepo	cucurbita_pepo_8.jpg	3	Wikipedia user: Rik Schuiling / TropCrop-TCS	https://commons.wikimedia.org/wiki/File:Golden_zucchinis_produced_in_the_Netherlands_for_sale_in_a_supermarket_in_Montpellier,_France,_April_2013.jpg
 Cucurbita pepo	Native to Mexico	5		
-Acorn squash	cucurbita_pepo_1.jpg	1	Wikipedia user: Forest & Kim Starr	https://commons.wikimedia.org/wiki/File:Starr_070730-7820_Cucurbita_pepo.jpg
-Pumpkin	cucurbita_pepo_2.jpg	1	Petr Kratochvil	http://www.publicdomainpictures.net/view-image.php?image=195241&picture=pumpkin-patch
-Zucchini	cucurbita_pepo_4.jpg	1	Wikipedia user: Jamain	https://commons.wikimedia.org/wiki/File:Courgette_J1.JPG
-Pattypan squash	cucurbita_pepo_5.jpg	1	Wikipedia user: Rameshng	https://commons.wikimedia.org/wiki/File:Pattypan_squash_at_lalbagh7446.JPG
-Delicata squash	cucurbita_pepo_6.jpg	1	Wikipedia user: Green Mountain Girls Farm	https://commons.wikimedia.org/wiki/File:Cucurbita_pepo_Delicata_squash_Green_Mountain_Girls_Farm.jpg
-Yellow summer squash	cucurbita_pepo_8.jpg	1	Wikipedia user: Rik Schuiling / TropCrop-TCS	https://commons.wikimedia.org/wiki/File:Golden_zucchinis_produced_in_the_Netherlands_for_sale_in_a_supermarket_in_Montpellier,_France,_April_2013.jpg
 Cucurbita pepo	Family: Cucurbitaceae	5		
 Cucurbita pepo	Fruit type: pepo	6		
+Piper nigrum	piper_nigrum.jpg	2	Wikipedia user: K Hari Krishnan	https://upload.wikimedia.org/wikipedia/commons/3/31/Black_Pepper_%28Piper_nigrum%29_fruits.jpg
+Piper nigrum	piper_nigrum_2.jpg	2	Franz Eugen Köhler, Köhlers Medizinal-Pflanzen	https://upload.wikimedia.org/wikipedia/commons/f/fd/Piper_nigrum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-107.jpg
+Piper nigrum	piper_nigrum_3.jpg	2	Wikipedia user: J.M.Garg	https://upload.wikimedia.org/wikipedia/commons/c/c6/Piper_nigrum_W_IMG_2444.jpg
+Piper nigrum	piper_nigrum_4.jpg	4	Wikipedia user: A.D.Balasubramaniyan	https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pepper_vine.JPG/450px-Pepper_vine.JPG
+Piper nigrum	Family: Piperaceae	5		
+Piper nigrum	Fruit type: drupe	6		
+Piper nigrum	Black pepper, green pepper and white pepper	1		
+Piper nigrum	Native to India	4		
+Piper nigrum	The worlds most traded spice	5		
+Piper nigrum	Perennial woody vine	2		
+Solanum lycopersicum	Tomato	1		
+Solanum lycopersicum	solanum_lycopersicum.jpg	3	Wikipedia user: Victor M. Vicente Selvas	https://upload.wikimedia.org/wikipedia/commons/a/a1/Flor_tomaca_057.jpg
+Solanum lycopersicum	solanum_lycopersicum_2.jpg	3	Wikipedia user: Earth100	https://upload.wikimedia.org/wikipedia/commons/6/6f/Tomato_flower_and_young_fruit.jpg
+Solanum lycopersicum	solanum_lycopersicum_3.jpg	3	Wikipedia user: Forest & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/0/0b/Starr_070124-3934_Solanum_lycopersicum_var._cerasiforme.jpg
+Solanum lycopersicum	solanum_lycopersicum_4.jpg	2	Wikipedia user: Forest & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/2/25/Starr_070124-3921_Solanum_lycopersicum_var._cerasiforme.jpg
+Solanum lycopersicum	solanum_lycopersicum_5.jpg	1	Wikipedia user: Böhringer Friedrich	https://upload.wikimedia.org/wikipedia/commons/6/6e/Solanum_lycopersicum%2C_Tomate_2.JPG
+Solanum lycopersicum	solanum_lycopersicum_6.jpg	1	flickr user: See-ming Lee	https://farm3.staticflickr.com/2575/3868438181_1603578af9_o_d.jpg
+Solanum lycopersicum	Family: Solanaceae	4		
+Solanum lycopersicum	Native to Central America	4		
+Solanum lycopersicum	Fruit type: berry	4		
+Solanum lycopersicum	Self-fertilizing	4		
+Solanum lycopersicum	Seeds must be dried or fermented to germinate	5		
+Solanum lycopersicum	solanum_lycopersicum_7.jpg	3	Wikipedia user: Dennis Brown	https://upload.wikimedia.org/wikipedia/en/4/4d/Tomato_27_days_from_planting_seeds.jpg
+Daucus carota	Carrot	1		
+Daucus carota	Native to Central Asia	4		
+Daucus carota	Biennial	3		
+Daucus carota	Family: Apiaceae	4		
+Daucus carota	daucus_carota.jpg	1	Stephen Ausmus	https://upload.wikimedia.org/wikipedia/commons/3/32/Carrots_of_many_colors.jpg
+Daucus carota	daucus_carota_2.jpg	3	Wikipedia user: Christian Fischer	https://upload.wikimedia.org/wikipedia/commons/b/ba/DaucusCarota.jpg
+Daucus carota	daucus_carota_3.jpg	4	pixabay user: Pezibear	https://cdn.pixabay.com/photo/2016/08/15/12/52/carrots-1595308_960_720.jpg
+Daucus carota	daucus_carota_4.jpg	1	flickr user: color line	https://farm1.staticflickr.com/22/35819369_3dfa63642b_b_d.jpg
+Vaccinium corymbosum	vaccinium_corymbosum.jpg	1		https://upload.wikimedia.org/wikipedia/commons/1/17/Vaccinium_corymbosum%2801%29.jpg
+Vaccinium corymbosum	Northern highbush blueberry	1		
+Vaccinium corymbosum	vaccinium_corymbosum_2.jpg	1	Wikipedia user: Darkone	https://upload.wikimedia.org/wikipedia/commons/1/14/Vaccinium_corymbosum_Strauch.jpg
+Vaccinium corymbosum	vaccinium_corymbosum_3.jpg	4	Wikipedia user: Ram-Man (Derek Ramsey)	https://upload.wikimedia.org/wikipedia/commons/8/8b/Highbush_Blueberry_Vaccinium_corymbosum_Branch_3008px.jpg
+Vaccinium corymbosum	vaccinium_corymbosum_4.jpg	1	Wikipedia user: Meggar	https://upload.wikimedia.org/wikipedia/commons/d/df/Vaccinium_corymbosum_1.jpg
+Vaccinium corymbosum	vaccinium_corymbosum_5.jpg	5	Wikipedia user: Ram-Man (Derek Ramsey)	https://upload.wikimedia.org/wikipedia/commons/e/ed/Highbush_Blueberry_Vaccinium_corymbosum_Sapling_2000px.jpg
+Vaccinium corymbosum	Native to North America	4		
+Vaccinium corymbosum	AKA blue huckleberry, tall huckleberry, swamp huckleberry, high blueberry, and swamp blueberry	3		
+Vaccinium corymbosum	Deciduous shrub	3		
+Vaccinium corymbosum	Tetraploid	6		
+Vaccinium corymbosum	The most common commercially grown blueberry	3		
+Vaccinium corymbosum	Prefers acidic soil	4		
+Vaccinium corymbosum	vaccinium_corymbosum_6.jpg	3		https://upload.wikimedia.org/wikipedia/commons/1/19/Vaccinium_corymbosum_Bl%C3%BCten.jpg
+Vaccinium corymbosum	Family: Ericaceae	4		
+Coffea arabica	Coffee	1		
+Coffea arabica	coffea_arabica.jpg	2		https://upload.wikimedia.org/wikipedia/commons/d/d5/Starr_070308-5472_Coffea_arabica.jpg
+Coffea arabica	coffea_arabica_2.jpg	5	Wikipedia user: B. navez	https://upload.wikimedia.org/wikipedia/commons/6/62/Coffea_arabica_flowers.JPG
+Coffea arabica	coffea_arabica_3.jpg	6	H. Zell	https://upload.wikimedia.org/wikipedia/commons/d/d0/Coffea_arabica_001.JPG
+Coffea arabica	coffea_arabica_4.jpg	2	Wikipedia user: Forest Starr & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/9/92/Starr_070617-7327_Coffea_arabica.jpg
+Coffea arabica	Fruit type: drupe	4		
+Coffea arabica	Native to northeast Africa	5		
+Coffea arabica	Family: Rubiaceae	5		
+Coffea arabica	Evergreen shrub/tree	3		
+Solanum melongena	Eggplant	1		
+Solanum melongena	Aubergine	2		
+Solanum melongena	Native to Asia	5		
+Solanum melongena	Tropical perennial / temperate annual	3		
+Solanum melongena	Fruit type: berry	4		
+Solanum melongena	Self-fertilizing	4		
+Solanum melongena	solanum_melongena.jpg	1	Wikipedia user: Joydeep	https://upload.wikimedia.org/wikipedia/commons/7/76/Solanum_melongena_24_08_2012_%281%29.JPG
+Solanum melongena	solanum_melongena_2.jpg	4	Wikipedia user: Earth100	https://upload.wikimedia.org/wikipedia/commons/e/e1/Eggplant_Flower_in_Hong_Kong.JPG
+Solanum melongena	Family: Solanaceae	4		
+Solanum melongena	solanum_melongena_3.jpg	1	Wikipedia user: Miya.m	https://upload.wikimedia.org/wikipedia/commons/1/1c/Solanum_melongena_ja001.jpg
+Solanum melongena	solanum_melongena_4.jpg	5	Wikipedia user: Forest & Kim Starr	
+Solanum melongena	solanum_melongena_5.jpg	1	flickr user: F. D. Richards	https://farm9.staticflickr.com/8302/7759167850_21ccd7df48_k_d.jpg
+Vaccinium corymbosum	Fruit type: berry	5		
+Solanum tuberosum	Potato	1		
+Solanum tuberosum	Native to South America	4		
+Solanum tuberosum	Herbaceous perennial	4		
+Solanum tuberosum	Family: Solanaceae	4		
+Solanum tuberosum	solanum_tuberosum.jpg	5	Keith Weller	https://upload.wikimedia.org/wikipedia/commons/b/b9/Potato_flowers.jpg
+Solanum tuberosum	solanum_tuberosum_2.jpg	5	Wikipedia user: fir0002	https://upload.wikimedia.org/wikipedia/commons/a/a7/Potato_plants.jpg
+Solanum tuberosum	solanum_tuberosum_3.jpg	4	Wikipedia user: Manuel Anastácio	https://upload.wikimedia.org/wikipedia/commons/6/6b/Solanum_tuberosum.JPG
+Solanum tuberosum	solanum_tuberosum_4.jpg	1	Ton Sai Root	http://maxpixel.freegreatpicture.com/static/photo/640/Why-Light-Roots-Haulm-Land-Potato-Potatoes-Fruit-1637280.jpg
+Solanum tuberosum	solanum_tuberosum_5.jpg	1	USDA Agricultural Research Service	https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg
+Solanum tuberosum	Self-fertilizing	4		
+Actinidia deliciosa	Fuzzy kiwifruit	1		
+Actinidia deliciosa	Native to Asia	4		
+Actinidia deliciosa	Family: Actinidiaceae	4		
+Actinidia deliciosa	actinidia_deliciosa.jpg	1	Luis Miguel Bugallo Sánchez 	https://upload.wikimedia.org/wikipedia/commons/f/f2/Kiwis_006eue.jpg
+Actinidia deliciosa	actinidia_deliciosa_2.jpg	5	Wikipedia user: Rob Hille	https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Actinidia_deliciosa_13_R.jpg/800px-Actinidia_deliciosa_13_R.jpg
+Actinidia deliciosa	actinidia_deliciosa_3.jpg	4	Wikipedia user: Wouter Hagens	https://upload.wikimedia.org/wikipedia/commons/c/c8/Actinidia_chinensis_C.jpg
+Actinidia deliciosa	Woody vine	3		
+Actinidia deliciosa	Deciduous	3		
+Actinidia deliciosa	Fruit type: berry	4		
+Actinidia deliciosa	actinidia_deliciosa_5.jpg	1	Wikipedia user: Lazaregagnidze	https://upload.wikimedia.org/wikipedia/commons/1/16/Actinidia_deliciosa_Kiwi_Fruit_%E1%83%99%E1%83%98%E1%83%95%E1%83%98.JPG
+Raphanus raphanistrum subsp. sativus	Radish	1		
+Raphanus raphanistrum subsp. sativus	Family: Brassicaceae	4		
+Raphanus raphanistrum subsp. sativus	raphanus_raphanistrum_subsp._sativus.jpg	1	Wikipedia user: Jengod	https://upload.wikimedia.org/wikipedia/commons/0/0c/Radish_3371103037_4ab07db0bf_o.jpg
+Raphanus raphanistrum subsp. sativus	raphanus_raphanistrum_subsp._sativus_2.jpg	2	Wikipedia user: Rasbak	https://upload.wikimedia.org/wikipedia/commons/7/77/Radijs_planten_%28Raphanus_sativus_subsp._sativus%29.jpg
+Raphanus raphanistrum subsp. sativus	raphanus_raphanistrum_subsp._sativus_3.jpg	3	Wikipedia user: 산과바다	https://upload.wikimedia.org/wikipedia/commons/a/a0/Gegeolmu_%28Korean_radish%29.jpg
+Ipomoea batatas	Sweet potato	1		
+Ipomoea batatas	Family: Convolvulaceae	4		
+Ipomoea batatas	Root vegetable	1		
+Ipomoea batatas	Herbaceous perennial vine	2		
+Ipomoea batatas	ipomoea_batatas.jpg	4	Wikipedia user: Earth100	https://upload.wikimedia.org/wikipedia/commons/3/3f/Ipomoea_batatas_%28Sweet_Potato%29_Flower.jpg
+Ipomoea batatas	ipomoea_batatas_2.jpg	5	Wikipedia user: Hariadhi	https://upload.wikimedia.org/wikipedia/commons/8/8b/Ipomoea_batatas_from_Taman_Mini_Indonesia_Indah.jpg
+Ipomoea batatas	ipomoea_batatas_3.jpg	2	Wikipedia user: Miya	https://upload.wikimedia.org/wikipedia/commons/3/3d/Ipomoea_batatasL_ja01.jpg
+Ipomoea batatas	ipomoea_batatas_4.jpg	3	Wikipedia user: Forest & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/f/f4/Starr_050407-6233_Ipomoea_batatas.jpg
+Vaccinium angustifolium	wild lowbush blueberry	1		
+Vaccinium angustifolium	Native to North America	3		
+Vaccinium angustifolium	Deciduous	2		
+Vaccinium angustifolium	Low spreading shrub	2		
+Vaccinium angustifolium	Its rhizomes can lay dormant up to 100 years	5		
+Vaccinium angustifolium	Fire-tolerant	4		
+Vaccinium angustifolium	Grown commercially in Canada, Maine, and Massachusetts, mainly harvested from managed wild patches	4		
+Vaccinium angustifolium	vaccinium_angustifolium.jpg	2		https://upload.wikimedia.org/wikipedia/commons/8/88/Vaccinium_angustifolium%2C_Pancake_Bay_PP.jpg
+Vaccinium angustifolium	vaccinium_angustifolium_2.jpg	5	flickr user: mricon	https://upload.wikimedia.org/wikipedia/commons/8/82/Pinus_banksiana_forest.jpg
+Vaccinium angustifolium	vaccinium_angustifolium_3.jpg	2	Caleb Slemmons	https://upload.wikimedia.org/wikipedia/commons/7/76/Lowbush_blueberry_bush.jpg
+Vaccinium angustifolium	Fruit type: berry	5		
+Zea mays	Corn	1		
+Zea mays	Native to Central America	4		
+Zea mays	Family: Poaceae	3		
+Zea mays	zea_mays.jpg	2	Wikipedia user: The Photographer	https://upload.wikimedia.org/wikipedia/commons/6/67/Corn_blooming.jpg
+Zea mays	zea_mays_2.jpg	2	Wikipedia user: Christian Fischer	https://upload.wikimedia.org/wikipedia/commons/6/65/ZeaMays.jpg
+Zea mays	zea_mays_3.jpg	2	Wikipedia user: Spedona	https://upload.wikimedia.org/wikipedia/commons/7/73/Corntassel_7095.jpg
+Hordeum vulgare	Barley	2		
+Hordeum vulgare	Family: Poaceae	4		
+Hordeum vulgare	Self-fertilizing	4		
+Hordeum vulgare	hordeum_vulgare.jpg	3	Wikipedia user: Cliff	https://upload.wikimedia.org/wikipedia/commons/2/20/Barley_%28Hordeum_vulgare%29_-_United_States_National_Arboretum_-_24_May_2009.jpg
+Hordeum vulgare	hordeum_vulgare_2.jpg	3	Wikipedia user: Cliff	https://upload.wikimedia.org/wikipedia/commons/5/55/Hordeum-barley.jpg
+Hordeum vulgare	hordeum_vulgare_3.jpg	3	Wikipedia user: raul.dupagne	https://upload.wikimedia.org/wikipedia/commons/5/52/Escourgeon-Hordeum_vulgare_subsp._vulgare.jpg
+Hordeum vulgare	hordeum_vulgare_4.jpg	3	Wikipedia user: Alexander von Halem	https://upload.wikimedia.org/wikipedia/commons/2/2e/Hordeum_vulgare_f._hexastichon%2C_ripe_ear.jpg
+Lactuca sativa	Lettuce	1		
+Lactuca sativa	Family: Asteraceae	4		
+Lactuca sativa	Annual	2		
+Lactuca sativa	lactuca_sativa.jpg	2	Wikipedia user: Geographer	https://upload.wikimedia.org/wikipedia/commons/d/da/Iceberg_lettuce_in_SB.jpg
+Lactuca sativa	lactuca_sativa_2.jpg	5	Wikipedia user: Salix	https://upload.wikimedia.org/wikipedia/commons/4/4c/Lactuca_sativa_blooming_02.JPG
+Lactuca sativa	lactuca_sativa_3.jpg	5	Wikipedia user: Rasbak	https://upload.wikimedia.org/wikipedia/commons/1/1a/Lactuca_sativa%2C_botersla.jpg
+Lactuca sativa	lactuca_sativa_4.jpg	3	Wikipedia user: Jamain	https://upload.wikimedia.org/wikipedia/commons/6/66/Romaine_lettuce_J2.jpg
+Beta vulgaris	Beet	2		
+Beta vulgaris	Chard	2		
+Beta vulgaris	Family: Amaranthaceae	5		
+Beta vulgaris	beta_vulgaris.jpg	4	Wikipedia user: Rasbak	https://upload.wikimedia.org/wikipedia/commons/3/32/Suikerbiet_bloeiwijze_Beta_vulgaris.jpg
+Beta vulgaris	beta_vulgaris_2.jpg	4	Wikipedia user: Rasbak	https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Suikerbiet_bloem_Beta_vulgaris.jpg/454px-Suikerbiet_bloem_Beta_vulgaris.jpg
+Beta vulgaris	beta_vulgaris_3.jpg	2	Wikipedia user: Hardyplants	https://upload.wikimedia.org/wikipedia/commons/c/cc/Chard3.jpg
+Beta vulgaris	beta_vulgaris_4.jpg	2	Wikipedia user: BastienM	https://upload.wikimedia.org/wikipedia/commons/9/96/Beta_Vulgaris_aout_2012.jpg
+Apium graveolens	Celery	1		
+Apium graveolens	Family: Apiaceae	4		
+Apium graveolens	apium_graveolens.jpg	3	Wikipedia user: Forest & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/7/73/Starr_080531-4959_Apium_graveolens.jpg
+Apium graveolens	apium_graveolens_2.jpg	3	Wikipedia user:  H. Zell	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Apium_graveolens_002.JPG/800px-Apium_graveolens_002.JPG
+Apium graveolens	apium_graveolens_3.jpg	3	Wikipedia user: Petar43	https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Apium_graveolens_111.JPG/450px-Apium_graveolens_111.JPG
+Apium graveolens	Annual	4		
+Apium graveolens	Biennial 	4		
+Oryza sativa	Rice	1		
+Oryza sativa	Family: Poaceae	3		
+Oryza sativa	Native to Asia	3		
+Oryza sativa	Annual	4		
+Oryza sativa	Perennial	4		
+Oryza sativa	oryza_sativa.jpg	2	Wikipedia user: IRRI Images	https://upload.wikimedia.org/wikipedia/commons/1/19/Rice_Plants_%28IRRI%29.jpg
+Oryza sativa	oryza_sativa_2.jpg	4	Wikipedia user: Jeevan Jose, Kerala, India	https://upload.wikimedia.org/wikipedia/commons/9/94/Oryza_sativa_of_Kadavoor.jpg
+Oryza sativa	oryza_sativa_3.jpg	3	Wikipedia user:  Koba-chan	https://upload.wikimedia.org/wikipedia/commons/8/81/Oryza_sativa_subsp_ear_of_rice.jpg
+Oryza sativa	oryza_sativa_4.jpg	3	Wikipedia user: Douglas Paul Perkins	https://upload.wikimedia.org/wikipedia/commons/c/c2/Rice_plant.jpg
+Manihot esculenta	Cassava	2		
+Manihot esculenta	Yuca	2		
+Manihot esculenta	Manioc	2		
+Manihot esculenta	Family: Euphorbiaceae	5		
+Manihot esculenta	Woody shrub	3		
+Manihot esculenta	Native to South America	4		
+Manihot esculenta	Perennial	3		
+Manihot esculenta	manihot_esculenta.jpg	5	Wikipedia user:  The Photographer	https://upload.wikimedia.org/wikipedia/commons/e/e0/Yuca_%28Manihot_esculenta%29.jpg
+Manihot esculenta	manihot_esculenta_2.jpg	5	Wikipedia user: Forest & Kim Starr	https://upload.wikimedia.org/wikipedia/commons/0/04/Starr_061212-2347_Manihot_esculenta.jpg
+Manihot esculenta	manihot_esculenta_3.jpg	5	Wikipedia user: Slav4	https://upload.wikimedia.org/wikipedia/commons/a/a3/Cassava_ap_001.JPG
+Manihot esculenta	manihot_esculenta_4.jpg	2	flickr user: Scamperdale	https://farm3.staticflickr.com/2485/3717460546_324dbe758f_o_d.jpg
+Manihot esculenta	manihot_esculenta_5.jpg	3	José Cruz - ABr	https://upload.wikimedia.org/wikipedia/commons/2/21/Embrapa_news_sp_of_cassava_%28Jos%C3%A9_Cruz_ABr%29_25jan2008.jpg
+Allium cepa	Onion	1		
+Allium cepa	Family: Amaryllidaceae	3		
+Allium cepa	Biennial	3		
+Allium cepa	Grown as an annual	4		
+Allium cepa	Native to Asia	4		
+Allium cepa	allium_cepa.jpg	1	Stephen Ausmus, USDA ARS	https://upload.wikimedia.org/wikipedia/commons/9/93/ARS_red_onion.jpg
+Allium cepa	allium_cepa_2.jpg	4	Christoph Waghubinger	https://upload.wikimedia.org/wikipedia/commons/0/08/Zwiebelbluete_1.jpg
+Allium cepa	allium_cepa_3.jpg	2	Rainer Haessner	https://upload.wikimedia.org/wikipedia/commons/3/39/Field_with_onions.jpg
